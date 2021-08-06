@@ -2,7 +2,7 @@
 
 
 
-![Architecture Diagram](./microservices.png?raw=true "Architecture")
+![Architecture Diagram](./Microservices.png?raw=true "Architecture")
 
 ### Introduction 
 
